@@ -2,11 +2,11 @@
   {
     "id": "tung-pack",
     "title": "Tung Pack",
-    "description": "",
+    "description": "yes",
     "pointsReward": 45,
     "levels": [
       { "id": "lvl-1", "title": "Stereo Tung" },
-      { "id": "lvl-2", "title": "Tung After Tung" },
+      { "id": "lvl-2", "title": "Tung After Tung" }
     ]
   }
 ]
