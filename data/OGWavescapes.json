@@ -1,0 +1,30 @@
+{
+    "id": 110610070,
+    "name": "Original Wavescapes",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "Kinger",
+    "verification": "https://youtu.be/cMRupWZEDqo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "NotChipz",
+            "link": "https://youtu.be/7ZcdpdKWC0A",
+            "percent": 100,
+            "hz": 180
+             },
+        {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=J11AKoZ-VaE",
+            "percent": 100,
+            "hz": 360
+             },
+                            {
+            "user": "Obey",
+            "link": "https://youtu.be/aHybUbdt11I",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

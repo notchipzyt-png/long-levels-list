@@ -1,0 +1,30 @@
+{
+    "id": 137048939,
+    "name": "Violence",
+    "author": "Kinger01YT",
+    "creators": ["Kinger", "ThatDunce"],
+    "verifier": "Kinger",
+    "verification": "https://youtu.be/I3mUyu5zQHA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/iYQ0m-hR9es",
+            "percent": 100,
+            "hz": 180
+                },
+                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=Rz1FOxulIfc",
+            "percent": 100,
+            "hz": 480
+                },
+                                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        }
+      ]
+}

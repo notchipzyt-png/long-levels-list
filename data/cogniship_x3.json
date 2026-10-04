@@ -1,0 +1,30 @@
+{
+    "id": 135217751,
+    "name": "cogniship x3",
+    "author": "RubixTheCube",
+    "creators": ["Rubix", "Badburd"],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=B4k88EkDYOQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgtKisYhhFBHxYdUY?invite=cr-MSwwUXIsMTY3NjA5MzQ0&v=33&tab=home",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=Wbr4wUBZVnA&feature=youtu.be",
+            "percent": 100,
+            "hz": 480
+                },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                }
+    ]
+}

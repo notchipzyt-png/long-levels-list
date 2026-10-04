@@ -1,0 +1,24 @@
+{
+    "id": 128004111,
+    "name": "3 Way",
+    "author": "Rubiks",
+    "creators": ["RubixTheCube"],
+    "verifier": "Rubiks",
+    "verification": "https://youtu.be/58eDevEf7GI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=rUfE9Sa5eiY",
+            "percent": 100,
+            "hz": 480
+        },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 137217028,
+    "name": "Shitty Endless River",
+    "author": "NotChipz",
+    "creators": ["bvex", "Pringle", "isaacisbubby2", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/Ak64D0IDtiY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                {
+            "user": "Obey",
+            "link": "https://youtu.be/097DeA8o9Ok",
+            "percent": 100,
+            "hz": 480
+                },
+                                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

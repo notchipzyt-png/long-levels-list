@@ -1,0 +1,72 @@
+{
+    "id": 88580003,
+    "name": "Challenge",
+    "author": "DanishHotdog",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=gWgJ-Lfmtjc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=TrzJWK4Dmgc",
+            "percent": 100,
+            "hz": 180
+                },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgwkRKCgY-4wh4nMJ?invite=cr-MSx5WGQsMTY3NjA5MzQ0&tab=home",
+            "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgxxy9t2gchpGH5KN?invite=cr-MSxYbUwsNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 360
+               },
+                       {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgAoV4Ax9PLJkkwBq?invite=cr-MSxZbUQsNTY0MjExMDE4&v=20&tab=home",
+            "percent": 100,
+            "hz": 60
+                       },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                      {
+            "user": "Dodi",
+            "link": "https://youtu.be/M8YTrXvgQLI",
+            "percent": 100,
+            "hz": 240
+                },
+                                              {
+            "user": "Giddles",
+            "link": "https://youtu.be/c6SpVH7qsiI",
+            "percent": 100,
+            "hz": 120
+                },
+                                                    {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/nku2xKK3AyrgGTDDq?invite=cr-MSxJNDIsNTQ2ODkxMzcz",
+            "percent": 100,
+            "hz": 60
+                },
+                                                   {
+            "user": "marsgd26",
+            "link": "https://youtu.be/I4Qi5s_QngE?is=sGWuAEz1oMvDSjmv",
+            "percent": 100,
+            "hz": 60
+                },
+                                                                      {
+            "user": "kingjay",
+            "link": "https://youtu.be/jrth9E0DA9Q?si=YpDV-pxHrVmG5kIF",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}

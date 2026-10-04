@@ -1,0 +1,58 @@
+{
+    "id": 117964554,
+    "name": "Oiled Sigma Circle",
+    "author": "thebluestinky",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=a9gqPTR5Zys",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=SnRd06jMrfU",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgC8V4jB250r-LT0B?invite=cr-MSxvVlIsMTY3NjA5MzQ0&v=17&tab=home",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "AndyTheApple",
+            "link": "https://youtu.be/D7O_cyRH-dg",
+            "percent": 100,
+            "hz": 360
+                
+                },
+                       {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=TrC8X2VAPFs",
+            "percent": 100,
+            "hz": 360
+            },
+                       {
+            "user": "Kinger",
+            "link": "https://youtu.be/JAat7N02Pg8",
+            "percent": 100,
+            "hz": 240
+                },
+                    
+                       {
+            "user": "NotChipz",
+            "link": "https://youtu.be/rycxgK6ApaE",
+            "percent": 100,
+            "hz": 180
+                    },
+                    
+                       {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                }
+
+    ]
+}

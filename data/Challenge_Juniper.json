@@ -1,0 +1,57 @@
+{
+    "id": 62573791,
+    "name": "Challenge Juniper",
+    "author": "DanishHotdog",
+    "creators": ["DanishHotdog", "DanishHotdog", "SwedishHotdog"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=gWgJ-Lfmtjc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=N8ukkSi05Os",
+            "percent": 100,
+            "hz": 180
+        },
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgxmMwUN7VceRh8Z1?invite=cr-MSxWcVMsNTY3MTY2NjUz&v=36&tab=home",
+            "percent": 100,
+            "hz": 240
+                
+        },
+                {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgxKGdEVZwvtMl45K?invite=cr-MSxralEsNTQ2ODkxMzcz&v=38&tab=home",
+            "percent": 100,
+            "hz": 60
+                
+        },
+                {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgzqbohqw2LG_LQWe?invite=cr-MSxQbWIsMTY3NjA5MzQ0&v=60&tab=home",
+            "percent": 100,
+            "hz": 360
+                
+              },
+                {
+            "user": "KiwiKut",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgQ5tbF14ypoAEgT-?invite=cr-MSx6M2MsNTIxMTI4NzAw&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                               {
+            "user": "Dodi",
+            "link": "https://youtu.be/60hNCyAINrg",
+            "percent": 100,
+            "hz": 240
+                                }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 145245985,
+    "name": "im codeing it so good",
+    "author": "Isaacisbubby2",
+    "creators": [],
+    "verifier": "Isaac",
+    "verification": "https://youtu.be/m7a5Youo4Gs?si=3kBQkO9KiiljnS_t",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                        {
+            "user": "NotChipz",
+            "link": "https://youtu.be/kCnyp4IM4Eg",
+            "percent": 100,
+            "hz": 240
+                                },
+                                                                      {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=lsdyYH8_wyw",
+            "percent": 100,
+            "hz": 480
+        },
+                                           {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nj7uVWxs6wLACOTh-?invite=cr-MSw3V1QsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                }
+    ]
+}

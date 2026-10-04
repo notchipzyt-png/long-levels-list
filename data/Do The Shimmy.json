@@ -1,0 +1,24 @@
+{
+    "id": 149597407,
+    "name": "Do the shimmy",
+    "author": "isaacisbubby2",
+    "creators": ["Isaac"],
+    "verifier": "Isaac",
+    "verification": "https://medal.tv/games/geometry-dash/clips/nC17tRpuR0C6BRtXD/spok?invite=cr-MSw3YkQsNTQ2ODkxMzczLA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "marsgd26",
+            "link": "https://youtu.be/_3_Pw4Ln82Y?is=nctvz5UK93CJVuuC",
+            "percent": 100,
+            "hz": 60
+    },
+                                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/I3tUvHFmBSE",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

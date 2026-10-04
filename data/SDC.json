@@ -1,0 +1,18 @@
+{
+    "id": 137876714,
+    "name": "Shitty Defeated Circles",
+    "author": "bvex",
+    "creators": ["Pringle"],
+    "verifier": "Pringle",
+    "verification": "https://youtu.be/wNsMrkacCjM?si=FuZNH5NJsBqZLse5",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/qSzlnMxVR04",
+            "percent": 100,
+            "hz": 180
+        }
+      ]
+}

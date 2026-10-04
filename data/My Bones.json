@@ -1,0 +1,36 @@
+{
+    "id": 147148952,
+    "name": "my bones r fractured",
+    "author": "BADBURD",
+    "creators": ["BadBurd, Pringle, NotChipz"],
+    "verifier": "BadBurd",
+    "verification": "https://youtu.be/5prcMesGJdA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                                                  {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=1JhovAScQko",
+            "percent": 100,
+            "hz": 600
+        },
+                                                                                            {
+            "user": "Riff",
+            "link": "https://medal.tv/games/geometry-dash/clips/ntpiyG7lRY7YmZtt0?invite=cr-MSxFODEsMzc2MDQzMTQ1",
+            "percent": 100,
+            "hz": 144
+        },
+                                                                                                    {
+            "user": "Manks1321",
+            "link": "https://medal.tv/games/geometry-dash/clips/nC1WbVE5iWg952V3i?invite=cr-MSwwWWcsMjg3MzA3Nzg4",
+            "percent": 100,
+            "hz": 240
+        },
+                                                                                                            {
+            "user": "NotChipz",
+            "link": "https://youtu.be/dy3lBY8dAHA",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

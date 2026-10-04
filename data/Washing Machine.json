@@ -1,0 +1,30 @@
+{
+    "id": 141578991,
+    "name": "Washing Machine",
+    "author": "BadBurd",
+    "creators": [],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=cQKsgwp9P6Q",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                        {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOHm2hKax5bfUNnSC?invite=cr-MSxWWXYsMTY3NjA5MzQ0&v=60",
+            "percent": 100,
+            "hz": 480
+                                },
+                                             {
+            "user": "NotChipz",
+            "link": "https://youtu.be/8tvrXyTEziY",
+            "percent": 100,
+            "hz": 480
+                                },
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 123448887,
+    "name": "v13rr3 cl0ud x3",
+    "author": "DanishHotdog",
+    "creators": ["DanishHotdog", "DanishHotdog", "SwedishHotdog"],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=gWgJ-Lfmtjc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=IIT2nYl7XOM&feature=youtu.be",
+            "percent": 100,
+            "hz": 480
+        },
+                                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                     {
+            "user": "NotChipz",
+            "link": "https://youtu.be/CefQ2D0NsaQ",
+            "percent": 100,
+            "hz": 480
+        },
+                                          {
+            "user": "Manks1321",
+            "link": "https://medal.tv/games/geometry-dash/clips/numNq3duZpamswnVN?invite=cr-MSxmNWksMjg3MzA3Nzg4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

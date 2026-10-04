@@ -1,0 +1,24 @@
+{
+    "id": 148640822,
+    "name": "3301",
+    "author": "Isaacisbubby2",
+    "creators": [],
+    "verifier": "Isaac",
+    "verification": "https://youtu.be/lGFiZhV_DPM?si=55I_1iTmqupVc0ha",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                        {
+            "user": "NotChipz",
+            "link": "https://youtu.be/Kbm2qTnZUvY",
+            "percent": 100,
+            "hz": 480
+                      },
+                                                {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nBjg2xRRmlXF4yaHM?invite=cr-MSxRR0IsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                      }
+    ]
+}

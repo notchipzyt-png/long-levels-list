@@ -1,0 +1,114 @@
+.page-packs-container {
+    display: block;
+}
+
+.page-packs {
+    height: 100%;
+    display: grid;
+    grid-template-columns: minmax(24rem, 2fr) 3fr;
+    grid-template-rows: max-content 1fr;
+    column-gap: 2rem;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.page-packs > div {
+    overflow-y: auto;
+}
+
+.page-packs .board-container,
+.page-packs .player-container {
+    grid-row: 1 / span 2;
+    padding-block: 2rem;
+}
+
+.page-packs .board-container {
+    padding-inline: 1rem;
+}
+
+.page-packs .packs-list {
+    display: block;
+    width: 100%;
+}
+
+.page-packs .pack-item {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    text-align: start;
+    word-break: normal;
+    overflow-wrap: anywhere;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.page-packs .pack-item:hover {
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background-hover);
+}
+
+.page-packs .pack-item.active {
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+}
+
+.page-packs .pack-item h3 {
+    margin: 0 0 0.5rem 0;
+}
+
+.page-packs .pack-item .description {
+    font-size: 0.875rem;
+    margin: 0;
+    opacity: 0.8;
+}
+
+.page-packs .pack-details {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-right: 2rem;
+}
+
+.page-packs .pack-details h1 {
+    margin: 0;
+}
+
+.page-packs .pack-details .description {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.page-packs .pack-details h2 {
+    margin: 1rem 0 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.page-packs .pack-details .points {
+    color: var(--color-primary);
+    font-weight: 700;
+}
+
+.page-packs .pack-details .table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.page-packs .pack-details .table tr td {
+    padding-block: 0.75rem;
+    border-bottom: 1px solid var(--color-outline);
+}
+
+.page-packs .pack-details .table tr:last-child td {
+    border-bottom: none;
+}
+
+.page-packs .pack-details .table .level {
+    width: 100%;
+}
+
+.page-packs .pack-details .table p {
+    margin: 0;
+}

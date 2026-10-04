@@ -1,0 +1,24 @@
+{
+    "id": 136897247,
+    "name": "Dunce Mix",
+    "author": "NotChipz",
+    "creators": ["ThatDunce", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/12QXacO2dBQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=32G7QEvKwqY",
+            "percent": 100,
+            "hz": 480
+                },
+                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

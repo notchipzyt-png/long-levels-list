@@ -1,0 +1,25 @@
+{
+    "id": 140541908,
+    "name": "BLOODBATH",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=F-VSmJFOmtg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                            {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                        {
+            "user": "Obey",
+            "link": "https://youtu.be/BrhWqh-RodE",
+            "percent": 100,
+            "hz": 480
+        }
+
+    ]
+}

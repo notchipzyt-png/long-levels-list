@@ -1,0 +1,36 @@
+{
+    "id": 145423259,
+    "name": "Silent Evil Capcut",
+    "author": "Dodison",
+    "creators": ["isaacisbubby2"],
+    "verifier": "Dodi",
+    "verification": "https://youtu.be/pGe9souXP0w",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/MjLBSe0Q0y8",
+            "percent": 100,
+            "hz": 100
+                                },
+                                                 {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nbtaS1dAoO47YqlL1?invite=cr-MSxBeWksMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                },
+                                           {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                },
+                                     {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/nt1Sqfn09HfmJzKsW?invite=cr-MSxxNEssNTQ2ODkxMzcz",
+            "percent": 100,
+            "hz": 80
+        }
+    ]
+}

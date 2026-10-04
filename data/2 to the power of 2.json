@@ -1,0 +1,24 @@
+{
+    "id": 147812636,
+    "name": "2 to the power of 2",
+    "author": "zion4c",
+    "creators": ["zion4c"],
+    "verifier": "zion4c",
+    "verification": "https://www.youtube.com/watch?v=f3HAq4G3cSw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+               {
+            "user": "NotChipz",
+            "link": "https://youtu.be/WsslzkFQLB8",
+            "percent": 100,
+            "hz": 480
+        },
+                     {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nqexIvlRumeXHupvX?invite=cr-MSxsN0wsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+        }
+    ]
+}

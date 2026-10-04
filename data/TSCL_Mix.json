@@ -1,0 +1,24 @@
+{
+    "id": 135319609,
+    "name": "TSCL Mix",
+    "author": "Obey",
+    "creators": [],
+    "verifier": "Obey",
+    "verification": "https://www.youtube.com/watch?v=IH2mdaxbDsk",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=eRp3FsPk-K0",
+            "percent": 100,
+            "hz": 480
+                    },
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mMep9HQMLBCh0qwEE?invite=cr-MSxQNlIsMTY3NjA5MzQ0&v=31****",
+            "percent": 100,
+            "hz": 480
+                    }
+    ]
+}

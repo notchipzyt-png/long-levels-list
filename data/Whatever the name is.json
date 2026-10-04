@@ -1,0 +1,24 @@
+{
+    "id": 121546235,
+    "name": "Femtanyl challenge",
+    "author": "zion4c",
+    "creators": [],
+    "verifier": "zion4c",
+    "verification": "https://youtu.be/FNjarK02aCc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/no7O93LnXpcI3bVXu?invite=cr-MSxvdEwsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+        },
+                 {
+            "user": "NotChipz",
+            "link": "https://youtu.be/5BNz6gtHS0U",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

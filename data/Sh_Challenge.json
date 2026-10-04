@@ -1,0 +1,36 @@
+{
+  "id": 122596039,
+  "name": "Sh Challenge",
+  "author": "Kiwikut",
+  "creators": ["Kiwikutt, Artiman"],
+  "verifier": "Rubiks",
+  "verification": "https://www.youtube.com/watch?v=AWCai0cf5DA",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Girg",
+      "link": "https://www.youtube.com/watch?v=oX0QMoJKv8w&feature=youtu",
+      "percent": 100,
+      "hz": 480
+    },
+    {
+      "user": "Obey",
+      "link": "https://youtu.be/ewAptoXilpw",
+      "percent": 100,
+      "hz": 300
+    },
+          {
+      "user": "Kinger",
+      "link": "https://drive.google.com/file/d/14yRkJXYli4UgTOjakf5PL34vV1GaGK-Q/view",
+      "percent": 100,
+      "hz": 240
+    },
+                {
+      "user": "Manks1321",
+      "link": "https://medal.tv/games/geometry-dash/clips/nBjXfgD3akr18LzDa?invite=cr-MSxwbXEsMjg3MzA3Nzg4",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 135159005,
+    "name": "Black Shiper",
+    "author": "Isaacisbubby2",
+    "creators": [],
+    "verifier": "Isaac",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mgeFexZPwZsg2k0RF?invite=cr-MSxKWEksNTQ2ODkxMzcz&tab=home",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=brWwmM0zgdA8",
+            "percent": 100,
+            "hz": 180
+        },
+                     {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgfUGdT9PV9a0mjXw?invite=cr-MSxsSXYsNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 240
+        },
+                     {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mguovPsy3kf-QwGek?invite=cr-MSxERDUsMTY3NjA5MzQ0&tab=home",
+            "percent": 100,
+            "hz": 360
+        },
+                                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                }
+        
+    ]
+}

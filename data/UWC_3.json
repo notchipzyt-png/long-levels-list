@@ -1,0 +1,24 @@
+{
+    "id": 136833535,
+    "name": "UWC 3",
+    "author": "NotChipz",
+    "creators": ["Hadlay", "NotChipz", "DenisZonexYt"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/IhxQTF6WcxA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=J11AKoZ-VaE",
+            "percent": 100,
+            "hz": 360
+            },
+                       {
+            "user": "Obey",
+            "link": "https://youtu.be/zMbYPBM5uew",
+            "percent": 100,
+            "hz": 480
+                }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 122465299,
+    "name": "Artiman Challenge",
+    "author": "KiwiKutt",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=6DtelOxm8Qg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mggkaIpvDAXorX3sJ?invite=cr-MSxkWmUsNTY3MTY2NjUz&v=13&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mguufdfvON0eRUEqK?invite=cr-MSxkVjMsMTY3NjA5MzQ0&v=19&tab=home",
+            "percent": 100,
+            "hz": 360
+                },
+                                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                        },
+                {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlzvWDGAOtbliS030?invite=cr-MSwxbzIsNTY0MjExMDE4",
+            "percent": 100,
+            "hz": 60
+             }
+    ]
+}

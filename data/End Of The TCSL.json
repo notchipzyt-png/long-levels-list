@@ -1,0 +1,36 @@
+{
+    "id": 139971811,
+    "name": "End Of The TCSL",
+    "author": "NotChipz",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/THGf4jtK0rc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                      {
+            "user": "KiwiKut",
+            "link": "https://youtu.be/YGO3bFk557s",
+            "percent": 100,
+            "hz": 240
+                },
+                              {
+            "user": "Obey",
+            "link": "https://youtu.be/EpAiapL4rK4",
+            "percent": 100,
+            "hz": 480
+                },
+                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                {
+            "user": "Girg",
+            "link": "https://youtu.be/Txtp614-8dU",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

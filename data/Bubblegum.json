@@ -1,0 +1,24 @@
+{
+    "id": 141422203,
+    "name": "Bubblegum",
+    "author": "NotChipz",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/U6N-AZ-0-mI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                        {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOIfdhluEy3EkqIMX?invite=cr-MSxSaGssMTY3NjA5MzQ0&v=60",
+            "percent": 100,
+            "hz": 480
+                                },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                }
+    ]
+}

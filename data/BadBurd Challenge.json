@@ -1,0 +1,36 @@
+{
+    "id": 121650340,
+    "name": "badburd challenge",
+    "author": "JOTHESEAOTTER",
+    "creators": [],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=bYYQfpQOj4o",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                        {
+            "user": "NotChipz",
+            "link": "https://youtu.be/pDUXarI8rqU?si=ikeaUel9WIitM3yg",
+            "percent": 100,
+            "hz": 180
+                },
+            {
+            "user": "Obey",
+            "link": "https://youtu.be/a05tDYA_E0I",
+            "percent": 100,
+            "hz": 480
+        },
+                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                                {
+            "user": "Girg",
+            "link": "https://youtu.be/I7VLQoiRMqI",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 141878704,
+    "name": "Unknown Challenge",
+    "author": "KiwiKutt",
+    "creators": ["Kiwikut"],
+    "verifier": "Obey",
+    "verification": "https://www.youtube.com/watch?v=Ie5Lk-08ssU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                   {
+            "user": "Girg",
+            "link": "https://youtu.be/ZWx0Mng7Shs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                 {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/ncI8hYzQYnkhntVXc?invite=cr-MSx4R1AsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                }
+  ]
+}

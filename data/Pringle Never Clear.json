@@ -1,0 +1,30 @@
+{
+    "id": 143948180,
+    "name": "Pringle Never Clear",
+    "author": "KiwiKutt",
+    "creators": ["KiwiKutt"],
+    "verifier": "KiwiKut",
+    "verification": "https://youtu.be/UbIYzDn7vPg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                },
+                                               {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/ncHDdbqUOvlqYug02?invite=cr-MSxOWkksMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                },
+                                                      {
+            "user": "NotChipz",
+            "link": "https://youtu.be/XFf03eksqP0",
+            "percent": 100,
+            "hz": 480
+                                }
+    ]
+}

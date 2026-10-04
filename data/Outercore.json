@@ -1,0 +1,24 @@
+{
+    "id": 146633500,
+    "name": "Outercore",
+    "author": "KiwiKutt",
+    "creators": ["KiwiKut"],
+    "verifier": "BadBurd",
+    "verification": "https://youtu.be/BaoGP1Y2Bls",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=jL9wdHfuego",
+            "percent": 100,
+            "hz": 600
+        },
+               {
+            "user": "Girg",
+            "link": "https://youtu.be/7ZXNHIEK6fQ",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}   

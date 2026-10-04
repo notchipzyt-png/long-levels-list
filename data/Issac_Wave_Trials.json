@@ -1,0 +1,42 @@
+{
+    "id": 135212282,
+    "name": "Issac Wave Trials",
+    "author": "bvex",
+    "creators": ["Isaacisbubby2", "Pringle"],
+    "verifier": "Pringle",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mgspeYclXhh6NWRwW?invite=cr-MSxDNDksNTE1ODAwNjQ0&v=57&tab=home",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgu27dMwDqp7zpWSk?invite=cr-MSxwOWMsMTY3NjA5MzQ0&v=60&tab=home",
+            "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgxOCm3V9iv98ew7w?invite=cr-MSx0SFosNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=3Qtknu8XKTQ&feature=youtu.be",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                },
+                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/pZTvvkw76L4",
+            "percent": 100,
+            "hz": 180
+                }
+    ]
+}

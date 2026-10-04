@@ -1,0 +1,31 @@
+{
+    "id": 141207708,
+    "name": "Dedicated to kiwi heart",
+    "author": "RubixTheCube",
+    "creators": ["RubixTheCube"],
+    "verifier": "KiwiKut",
+    "verification": "https://www.youtube.com/watch?v=MdZ8JSkAP3I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                      {
+            "user": "Obey",
+            "link": "https://youtu.be/BX3RZKHZtCI",
+            "percent": 100,
+            "hz": 480
+        },
+                                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/znmdVzpE9ME",
+            "percent": 100,
+            "hz": 480
+    },
+                    {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nbtNvJHjQV5cd3_m1?invite=cr-MSw0WXosMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                }
+    ]
+}
+        

@@ -1,0 +1,18 @@
+{
+    "id": 146853201,
+    "name": "Dodi Party",
+    "author": "BadBurd",
+    "creators": ["BadBurd"],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=neToaKEz6BM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nk513yh6TAsuuMpLD?invite=cr-MSxrTDcsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+        }
+    ]
+}

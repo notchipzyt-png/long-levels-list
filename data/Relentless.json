@@ -1,0 +1,18 @@
+{
+    "id": 146929628,
+    "name": "Relentless",
+    "author": "BadBurd",
+    "creators": ["BadBurd, Kinger, Rubiks, KiwiKutt"],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=Jmh7JlsvouI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                    {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=jL9wdHfuego",
+            "percent": 100,
+            "hz": 600
+                    }
+    ]
+}

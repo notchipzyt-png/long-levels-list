@@ -1,0 +1,18 @@
+{
+    "id": 13495779,
+    "name": "Acropolis Challenge",
+    "author": "nin3d",
+    "creators": ["Zobros", "nin3d"],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=sZzX6V6h6IQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpdx6KIrRtjBIeWRk?invite=cr-MSw1bm0sNTY3MTY2NjUz",
+            "percent": 100,
+            "hz": 240
+            }
+    ]
+}

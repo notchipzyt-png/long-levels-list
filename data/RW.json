@@ -1,0 +1,30 @@
+{
+    "id": 140307886,
+    "name": "Ring Worm",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/J1E42coS8j4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                        {
+            "user": "Obey",
+            "link": "https://youtu.be/iPlEZjCEO7k",
+            "percent": 100,
+            "hz": 480
+                                },
+                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                              {
+            "user": "Girg",
+            "link": "https://youtu.be/DS3E8A5fBTM",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

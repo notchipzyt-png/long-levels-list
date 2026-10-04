@@ -1,0 +1,24 @@
+{
+    "id": 133171415,
+    "name": "Obeyicular Torsion",
+    "author": "Rubiks",
+    "creators": ["RubixTheCube"],
+    "verifier": "Rubiks",
+    "verification": "https://www.youtube.com/watch?v=WuyAgUHSo7M",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=8c1an6keu64",
+            "percent": 100,
+            "hz": 480
+        },
+                    {
+            "user": "Obey",
+            "link": "https://youtu.be/YJF67OXbjn8",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 56547653,
+    "name": "Zodiac Challenge",
+    "author": "ItzPiccle",
+    "creators": ["ItzPiccle"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/M1FKdtvAO_M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpEhT8iFbLaKbObAQ/spok?invite=cr-MSxWdnUsNTQ2ODkxMzczLA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpF6CfbaAxJ4fE_oF?invite=cr-MSx0MjksNTY3MTY2NjUz",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=9Foud8i2KSQ",
+            "percent": 100,
+            "hz": 360
+        },
+            {
+            "user": "Tragical",
+            "link": "https://youtu.be/GMswtaUZ6Bs?si=QT1HAflemJb3W8Jp",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

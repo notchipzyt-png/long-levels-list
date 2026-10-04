@@ -1,0 +1,38 @@
+{
+    "id": 136909591,
+    "name": "Aeternus Challenge",
+    "author": "KiwiKutt",
+    "creators": ["KiwiKutt", "Artiman"],
+    "verifier": "KiwiKut",
+    "verification": "https://youtu.be/cSSwjLmMuJY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                    {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=t4pz5AnnUio",
+            "percent": 100,
+            "hz": 480
+            },
+            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=6zc3MlE3BZc",
+            "percent": 100,
+            "hz": 480
+            },
+                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                        {
+            "user": "Girg",
+            "link": "https://youtu.be/FXTaRzRuGho",
+            "percent": 100,
+            "hz": 480
+        }
+
+
+    ]
+}

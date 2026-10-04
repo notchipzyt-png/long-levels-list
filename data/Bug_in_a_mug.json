@@ -1,0 +1,36 @@
+{
+    "id": 135287650,
+    "name": "Bug in a Mug",
+    "author": "NotChipz",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=18lnFrJ5A10",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=XONiuhxjzlA",
+            "percent": 100,
+            "hz": 480
+        },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                          {
+            "user": "Dunce",
+            "link": "https://youtu.be/1VafRnUQKnc",
+            "percent": 100,
+            "hz": 360
+                }
+    ]
+}

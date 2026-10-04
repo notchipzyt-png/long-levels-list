@@ -1,0 +1,42 @@
+{
+    "id": 119469693,
+    "name": "Tim Cheese Challenge",
+    "author": "DanishHotdog",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=LBM1BWxLawg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgv4iPXYH5H1_bxEq?invite=cr-MSxDcmgsMTY3NjA5MzQ0&v=19&tab=home",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=zzk8Bij5npo",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Obey",
+            "link": "https://youtu.be/opy2lp79chg",
+            "percent": 100,
+            "hz": 300
+                },
+                               {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=ZuJOw31um3g",
+            "percent": 100,
+            "hz": 240
+                },
+                                     {
+            "user": "NotChipz",
+            "link": "https://youtu.be/TL3ABTCEeDs",
+            "percent": 100,
+            "hz": 300
+                }
+    ]
+}

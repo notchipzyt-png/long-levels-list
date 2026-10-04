@@ -1,0 +1,31 @@
+{
+    "id": 18188832,
+    "name": "Phobos Challenge",
+    "author": "fjfjh22",
+    "creators": ["fjfjh22"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/Bg9uRt-kWAI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                        {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/moUriPYtc43wTB0rt?invite=cr-MSxQZlAsNTY0MjExMDE4&v=22",
+            "percent": 100,
+            "hz": 60
+                },
+            {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=9Foud8i2KSQ",
+            "percent": 100,
+            "hz": 360
+                },
+               {
+            "user": "Obey",
+            "link": "https://youtu.be/zMbYPBM5uew",
+            "percent": 100,
+            "hz": 480
+                }
+
+    ]
+}

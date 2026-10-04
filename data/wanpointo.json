@@ -1,0 +1,24 @@
+{
+    "id": 142273336,
+    "name": "wanpointo",
+    "author": "NotChipz",
+    "creators": ["Dodison", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/8cS_vTMR2oY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nbtKJ9AgoXt1T4A8L?invite=cr-MSxOVnYsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                },
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                }
+  ]
+}

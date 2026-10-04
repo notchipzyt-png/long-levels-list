@@ -1,0 +1,30 @@
+{
+    "id": 141886576,
+    "name": "Pyramid",
+    "author": "NotChipz",
+    "creators": ["NotChipz", "Kinger"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/lVlrZw06GBA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nbtQRw4CHyf78NCHe?invite=cr-MSwyT3gsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                },
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                },
+                                                                        {
+            "user": "Dunce",
+            "link": "https://youtu.be/18Rz0D5EHPg",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}

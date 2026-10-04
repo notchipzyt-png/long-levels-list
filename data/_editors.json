@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Owner",
+        "name": "Chipz",
+        "link": "https://www.youtube.com/@NotChipzPlaysYT"
+    },
+    {
+        "role": "Website Owner",
+        "name": "Obey",
+        "link": "https://www.youtube.com/@ObeyMiniNinja"
+    },
+    {
+        "role": "Website Co-Owner",
+        "name": "Chipz",
+        "link": "https://www.youtube.com/@NotChipzPlaysYT"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]

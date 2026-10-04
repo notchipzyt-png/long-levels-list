@@ -1,0 +1,42 @@
+{
+    "id": 122411336,
+    "name": "EZ 2 HARD CHALL",
+    "author": "KiwiKutt",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=wycgnq2CqWo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgePECpbe8Sd2xngo?invite=cr-MSwzVFYsNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgtZjvgHI_J_t6Su8?invite=cr-MSw0dlksMTY3NjA5MzQ0&v=32&tab=home",
+            "percent": 100,
+            "hz": 360
+             },
+                                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                                        {
+            "user": "Isaac",
+            "link": "https://youtu.be/Tmysna8J7yA",
+            "percent": 100,
+            "hz": 80
+        },
+                                                                                          {
+            "user": "Manks1321",
+            "link": "https://youtu.be/1gJrpYFkbYE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

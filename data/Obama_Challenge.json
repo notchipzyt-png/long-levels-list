@@ -1,0 +1,49 @@
+{
+    "id": 136712129,
+    "name": "Obama Challenge",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/jj2VTCWjI40",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "KiwiKut",
+            "link": "https://medal.tv/games/geometry-dash/clips/moTTnTo2N1lwLjvO-?invite=cr-MSxMTk8sNTIxMTI4NzAw",
+            "percent": 100,
+            "hz": 240
+                    },
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpH8aCEczP3jv0l-C?invite=cr-MSw2NnAsNTY3MTY2NjUz",
+            "percent": 100,
+            "hz": 240
+                    },
+                {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpHsW9L41NJh-HIlv/spok?invite=cr-MSxWU1IsNTQ2ODkxMzczLA",
+            "percent": 100,
+            "hz": 144
+                    },
+                                   {
+            "user": "Obey",
+            "link": "https://youtu.be/8wSAs9dAZSw",
+            "percent": 100,
+            "hz": 480
+        },
+                                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                                {
+            "user": "Dunce",
+            "link": "https://youtu.be/18Rz0D5EHPg",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}

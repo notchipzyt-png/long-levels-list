@@ -1,0 +1,30 @@
+{
+    "id": 132935797,
+    "name": "Obey Challenge",
+    "author": "KiwiKutt",
+    "creators": [],
+    "verifier": "Obey",
+    "verification": "https://www.youtube.com/watch?v=F34OgduDubo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mguIUG27I9nHJh90p?invite=cr-MSxkSkgsMTY3NjA5MzQ0&tab=home",
+            "percent": 100,
+            "hz": 480
+                },
+                       {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=gWgJ-Lfmtjc",
+            "percent": 100,
+            "hz": 360
+                },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=ZYhT_IZW0lw",
+            "percent": 100,
+            "hz": 480
+                }
+    ]
+}

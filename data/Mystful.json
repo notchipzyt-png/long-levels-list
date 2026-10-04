@@ -1,0 +1,30 @@
+{
+    "id": 141585622,
+    "name": "Mystful",
+    "author": "NotChipz",
+    "creators": [],
+    "verifier": "KiwiKut",
+    "verification": "https://youtu.be/AuZuuf-3Qds",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                    {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nbtSRhbi4OSGMz_fr?invite=cr-MSwyOWIsMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                                },
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/live/ZMR-L_vLke8",
+            "percent": 100,
+            "hz": 2500
+                                },
+                                                {
+            "user": "NotChipz",
+            "link": "https://youtu.be/ckGB6u4qobQ",
+            "percent": 100,
+            "hz": 480
+                                }
+    ]
+}

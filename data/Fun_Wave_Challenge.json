@@ -1,0 +1,18 @@
+{
+    "id": 116005271,
+    "name": "Fun Wave Challenge",
+    "author": "mix3rrr",
+    "creators": ["mix3rrr"],
+    "verifier": "Kinger",
+    "verification": "https://www.youtube.com/watch?v=JymdpAPe9Kg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Obey",
+            "link": "https://youtu.be/mbKFsROurRE",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

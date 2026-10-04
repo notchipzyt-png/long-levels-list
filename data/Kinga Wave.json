@@ -1,0 +1,30 @@
+{
+    "id": 148753618,
+    "name": "Kinga Wave",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "Kinger",
+    "verification": "https://youtu.be/mEtl-yv_eCw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                     {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=d6mXz8qRzqI",
+            "percent": 100,
+            "hz": 240
+                },
+                          {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/nBMXuFPcHwdnzAe7t?invite=cr-MSw1alksMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                },
+                                 {
+            "user": "FORM",
+            "link": "https://youtu.be/9MdXv6dJrtU?si=_F_0h0p6YrGOee9A",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 148369274,
+    "name": "Kiwi Ufo",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/nXp4whqM5ds",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+             {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/nt0IJ72jGhhqtAPYd?invite=cr-MSxiS2ksNTQ2ODkxMzcz",
+            "percent": 100,
+            "hz": 80
+        },
+                                                                                          {
+            "user": "Manks1321",
+            "link": "https://youtu.be/1gJrpYFkbYE",
+            "percent": 100,
+            "hz": 240
+        },
+                                                                                                  {
+            "user": "KiwiKut",
+            "link": "https://youtu.be/MTXunho7rOg",
+            "percent": 100,
+            "hz": 360
+        },
+                                    {
+            "user": "rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/ntq8r7nHq5MbftmJa?invite=cr-MSxMUGosMTY3NjA5MzQ0",
+            "percent": 100,
+            "hz": 600
+                }
+    ]
+}

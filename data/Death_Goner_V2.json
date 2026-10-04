@@ -1,0 +1,50 @@
+{
+    "id": 135165416,
+    "name": "Death Goner V2",
+    "author": "NotChipz",
+    "creators": ["isaacisbubby2", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://www.youtube.com/watch?v=pz7RG79YFxQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mghkkiHsV2ZD7oZb0?invite=cr-MSxNR3csNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgitOh76l9z4z6Ri7?invite=cr-MSxFZGQsNTY0MjExMDE4&v=23&tab=home",
+            "percent": 100,
+            "hz": 60
+                },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgukfhjBcCmwA7Aoa?invite=cr-MSx2RGssMTY3NjA5MzQ0&tab=home",
+            "percent": 100,
+            "hz": 360
+               },
+                       {
+            "user": "KiwiKut",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgye4StaDfdugPx7j?invite=cr-MSx2amYsNTIxMTI4NzAw&v=12&tab=home",
+            "percent": 100,
+            "hz": 360
+                
+               },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=8v5NsMRoxHE",
+            "percent": 100,
+            "hz": 480
+
+                },
+                                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                }
+    ]
+}

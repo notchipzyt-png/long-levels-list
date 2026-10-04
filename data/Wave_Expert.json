@@ -1,0 +1,68 @@
+{
+    "id": 100804100,
+    "name": "Wave Expert",
+    "author": "DanishHotdog",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=gWgJ-Lfmtjc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Kinger",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgy1Y4n38V9QFKqSo?invite=cr-MSxzWlYsNTY3MTY2NjUz&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "KiwiKut",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgy70BOFRp5lRP-QX?invite=cr-MSxiM04sNTIxMTI4NzAw&v=12&tab=home",
+            "percent": 100,
+            "hz": 240
+                },
+                       {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgzMtQsJ9ETTJxtIQ?invite=cr-MSxMcFQsNTY0MjExMDE4&v=31&tab=home",
+            "percent": 100,
+            "hz": 60
+               },
+                       {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=ZMFrGPaQYYQ",
+            "percent": 100,
+            "hz": 480
+                
+               },
+                       {
+            "user": "Rubiks",
+            "link": "https://medal.tv/games/geometry-dash/clips/mgBvlrFeZyVcfxN-T?invite=cr-MSxTRHMsMTY3NjA5MzQ0&v=14&tab=home",
+            "percent": 100,
+            "hz": 360
+                
+               },
+                       {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=M0QoUPU0D4k",
+            "percent": 100,
+            "hz": 180
+                },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                },
+                                                        {
+            "user": "Manks1321",
+            "link": "https://medal.tv/games/geometry-dash/clips/nBo0cWpbGuIxTqLey?invite=cr-MSxrSWksMjg3MzA3Nzg4",
+            "percent": 100,
+            "hz": 240
+                                },
+                                                                    {
+            "user": "Isaac",
+            "link": "https://medal.tv/games/geometry-dash/clips/nBKTB8piZgfj5sApy/spok?invite=cr-MSw1ckgsNTQ2ODkxMzczLA",
+            "percent": 100,
+            "hz": 80
+                                }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 137429865,
+    "name": "Arabic Fruitbat",
+    "author": "BadBurd",
+    "creators": ["BadBurd"],
+    "verifier": "BadBurd",
+    "verification": "https://www.youtube.com/watch?v=w9Y8jAqQpJA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=Rn7OQm5yZ7I",
+            "percent": 100,
+            "hz": 180
+    },
+                        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=JwRHSbqtcws",
+            "percent": 100,
+            "hz": 480
+        },
+                                {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                                                        {
+            "user": "Girg",
+            "link": "https://youtu.be/qo_HzYij0U8",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}

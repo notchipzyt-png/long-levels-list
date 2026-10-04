@@ -1,0 +1,24 @@
+{
+    "id": 36200629,
+    "name": "Wave Spam God",
+    "author": "DanishHotdog",
+    "creators": ["Silliest"],
+    "verifier": "DanishHotdog",
+    "verification": "https://www.youtube.com/watch?v=fz6XSNviyQ8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=AEN-CxHUQaA",
+            "percent": 100,
+            "hz": 480
+        },
+                                                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+                                }
+    ]
+}
