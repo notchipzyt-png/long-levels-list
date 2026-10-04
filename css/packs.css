@@ -1,0 +1,16 @@
+:root{--card-bg:#fff;--accent:#2b6df6;--muted:#666}
+body{font-family:Inter,system-ui,Segoe UI,Roboto,Arial;margin:0;background:#f5f7fb;color:#111}
+.container{max-width:920px;margin:36px auto;padding:12px}
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+.points{font-weight:600}
+.packs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.pack-card{background:var(--card-bg);border-radius:8px;padding:12px;box-shadow:0 1px 3px rgba(0,0,0,0.06)}
+.pack-header{display:flex;justify-content:space-between;align-items:center}
+.pack-desc{color:var(--muted);margin:8px 0}
+.levels{list-style:none;padding:0;margin:0 0 8px 0}
+.levels li{display:flex;align-items:center;padding:6px 0;border-top:1px solid #f0f2f6}
+.levels li:first-child{border-top:0}
+.pack-progress{font-size:0.9rem;color:var(--muted);margin-bottom:8px}
+.claim-btn{background:var(--accent);color:#fff;border:0;padding:8px 10px;border-radius:6px;cursor:pointer}
+.claimed{opacity:0.6}
+.reward{background:#eef6ff;color:var(--accent);padding:4px 8px;border-radius:6px;font-weight:600}
